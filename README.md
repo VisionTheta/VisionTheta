@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on accelerating the training of trillion-scale transformer language models on hundreds of GPUs.
+- 🌱 I’m currently a PhD student in Hong Kong University of Science and Technology(HKUST).
+- 📫 How to reach me: Visit my website at https://xutong.tech
+- 😄 Hobbies and Interests: Badminton, Hiking, Photography and Reading.
+- ⚡ Fun fact: I prefer cats as pets to dogs.
+
 [![VisionTheta's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisionTheta)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
